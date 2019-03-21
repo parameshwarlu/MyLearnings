@@ -1,0 +1,3 @@
+Java 32 bit
+Eclipse Luna 32 bit
+Git 32 bit
