@@ -8,5 +8,10 @@ github.com
 paramesh2907@gmail.com
 Teetoo@143
 
+<<<<<<< HEAD
 paramesh.chilukuri@gmail.com
 Teetoo@143
+=======
+yet to create gitlab logins
+I am trying to fork this from parameshwarlu/MyLearnings and send it back to it.
+>>>>>>> 347cbbb65eaa1e8c2530fc4c572c593a56e0a7ae
